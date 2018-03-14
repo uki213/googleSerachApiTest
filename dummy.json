@@ -1,0 +1,890 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+     "type": "application/json",
+     "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+     "request": [
+      {
+       "title": "Google Custom Search - てすと",
+       "totalResults": "40800",
+       "searchTerms": "てすと",
+       "count": 10,
+       "startIndex": 1,
+       "inputEncoding": "utf8",
+       "outputEncoding": "utf8",
+       "safe": "off",
+       "cx": "006720714391695533024:orwkjwi3ify"
+      }
+     ],
+     "nextPage": [
+      {
+       "title": "Google Custom Search - てすと",
+       "totalResults": "40800",
+       "searchTerms": "てすと",
+       "count": 10,
+       "startIndex": 11,
+       "inputEncoding": "utf8",
+       "outputEncoding": "utf8",
+       "safe": "off",
+       "cx": "006720714391695533024:orwkjwi3ify"
+      }
+     ]
+    },
+    "context": {
+     "title": "uki213-test001"
+    },
+    "searchInformation": {
+     "searchTime": 0.613983,
+     "formattedSearchTime": "0.61",
+     "totalResults": "40800",
+     "formattedTotalResults": "40,800"
+    },
+    "items": [
+     {
+      "kind": "customsearch#result",
+      "title": "てすと3 · takkanm/sakura_vps_gentoo Wiki · GitHub",
+      "htmlTitle": "\u003cb\u003eてすと\u003c/b\u003e3 · takkanm/sakura_vps_gentoo Wiki · GitHub",
+      "link": "https://github.com/takkanm/sakura_vps_gentoo/wiki/%E3%81%A6%E3%81%99%E3%81%A83",
+      "displayLink": "github.com",
+      "snippet": "sakura_vps_gentoo - SakuraVPSにGentooをいれるための準備スクリプト。まだ動か\nない。 http://bit.ly/nFJuLa.",
+      "htmlSnippet": "sakura_vps_gentoo - SakuraVPSにGentooをいれるための準備スクリプト。まだ動か\u003cbr\u003e\nない。 http://bit.ly/nFJuLa.",
+      "cacheId": "xI-1nROwcfsJ",
+      "formattedUrl": "https://github.com/takkanm/sakura_vps_gentoo/wiki/てすと3",
+      "htmlFormattedUrl": "https://github.com/takkanm/sakura_vps_gentoo/wiki/\u003cb\u003eてすと\u003c/b\u003e3",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "225",
+         "height": "225",
+         "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSToNcqOhFonQ3KKNlWYF87BrFExcsCpH-w6GSAXupbtvgfrDHZTMzhQWF-"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "width=device-width",
+         "fb:app_id": "1401488693436528",
+         "og:image": "https://avatars0.githubusercontent.com/u/43500?s=400&v=4",
+         "og:site_name": "GitHub",
+         "og:type": "object",
+         "og:title": "takkanm/sakura_vps_gentoo",
+         "og:url": "https://github.com/takkanm/sakura_vps_gentoo",
+         "og:description": "sakura_vps_gentoo - SakuraVPSにGentooをいれるための準備スクリプト。まだ動かない。 http://bit.ly/nFJuLa",
+         "pjax-timeout": "1000",
+         "request-id": "AEFE:2DD87:1910B4:263D63:5A84BCB8",
+         "google-analytics": "UA-3769691-2",
+         "octolytics-host": "collector.githubapp.com",
+         "octolytics-app-id": "github",
+         "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+         "octolytics-dimension-request_id": "AEFE:2DD87:1910B4:263D63:5A84BCB8",
+         "octolytics-dimension-region_edge": "sea",
+         "octolytics-dimension-region_render": "iad",
+         "hydro-events-url": "https://github.com/hydro_browser_events",
+         "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e/wiki/show",
+         "dimension1": "Logged Out",
+         "hostname": "github.com",
+         "expected-hostname": "github.com",
+         "js-proxy-site-detection-payload": "MzNmOThlNjEyYzdhZmMyNjZhYTlmMzc0ZWY0OTE3MzU4MDRiMmNlYjZkMGQyZmMwYTllMTg4ZjQ4YzRjYzEyNXx7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5Ljg4IiwicmVxdWVzdF9pZCI6IkFFRkU6MkREODc6MTkxMEI0OjI2M0Q2Mzo1QTg0QkNCOCIsInRpbWVzdGFtcCI6MTUxODY0ODUwNCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==",
+         "enabled-features": "UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_HERO_CARD_UPLOADER",
+         "html-safe-nonce": "76d3a63af9d06e75308f0e657be6773662cd6e6f",
+         "go-import": "github.com/takkanm/sakura_vps_gentoo git https://github.com/takkanm/sakura_vps_gentoo.git",
+         "octolytics-dimension-user_id": "43500",
+         "octolytics-dimension-user_login": "takkanm",
+         "octolytics-dimension-repository_id": "2366096",
+         "octolytics-dimension-repository_nwo": "takkanm/sakura_vps_gentoo",
+         "octolytics-dimension-repository_public": "true",
+         "octolytics-dimension-repository_is_fork": "false",
+         "octolytics-dimension-repository_network_root_id": "2366096",
+         "octolytics-dimension-repository_network_root_nwo": "takkanm/sakura_vps_gentoo",
+         "octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown": "false",
+         "browser-stats-url": "https://api.github.com/_private/browser/stats",
+         "browser-errors-url": "https://api.github.com/_private/browser/errors",
+         "theme-color": "#1e2327"
+        }
+       ],
+       "listitem": [
+        {
+         "url": "Code",
+         "name": "Code",
+         "position": "1"
+        },
+        {
+         "url": "Issues 0",
+         "name": "Issues",
+         "position": "2"
+        },
+        {
+         "url": "Pull requests 0",
+         "name": "Pull requests",
+         "position": "3"
+        }
+       ],
+       "softwaresourcecode": [
+        {
+         "author": "takkanm",
+         "name": "sakura_vps_gentoo"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://avatars0.githubusercontent.com/u/43500?s=400&v=4"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "GitHub - kamosica/VRtest2: てすと",
+      "htmlTitle": "GitHub - kamosica/VRtest2: \u003cb\u003eてすと\u003c/b\u003e",
+      "link": "https://github.com/kamosica/VRtest2",
+      "displayLink": "github.com",
+      "snippet": "てすと. Contribute to VRtest2 development by creating an account on GitHub.",
+      "htmlSnippet": "\u003cb\u003eてすと\u003c/b\u003e. Contribute to VRtest2 development by creating an account on GitHub.",
+      "cacheId": "SG8RR351F1oJ",
+      "formattedUrl": "https://github.com/kamosica/VRtest2",
+      "htmlFormattedUrl": "https://github.com/kamosica/VRtest2",
+      "pagemap": {
+       "metatags": [
+        {
+         "viewport": "width=device-width",
+         "fb:app_id": "1401488693436528",
+         "og:image": "https://avatars2.githubusercontent.com/u/17016305?s=400&v=4",
+         "og:site_name": "GitHub",
+         "og:type": "object",
+         "og:title": "kamosica/VRtest2",
+         "og:url": "https://github.com/kamosica/VRtest2",
+         "og:description": "てすと. Contribute to VRtest2 development by creating an account on GitHub.",
+         "pjax-timeout": "1000",
+         "request-id": "D407:1D38B:4C0AD:779B1:5A1CAB7F",
+         "google-analytics": "UA-3769691-2",
+         "octolytics-host": "collector.githubapp.com",
+         "octolytics-app-id": "github",
+         "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+         "octolytics-dimension-request_id": "D407:1D38B:4C0AD:779B1:5A1CAB7F",
+         "octolytics-dimension-region_edge": "sea",
+         "octolytics-dimension-region_render": "iad",
+         "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e",
+         "dimension1": "Logged Out",
+         "hostname": "github.com",
+         "expected-hostname": "github.com",
+         "js-proxy-site-detection-payload": "ZDBmYWNiYjFkM2Y4MDllYzdjYjgxYjIwYWI3MWY2ODMwYTE1ZmJiYTI4MTJiY2QxMzFlNWVhOTkwNTk3MmMxYXx7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5LjEzMCIsInJlcXVlc3RfaWQiOiJENDA3OjFEMzhCOjRDMEFEOjc3OUIxOjVBMUNBQjdGIiwidGltZXN0YW1wIjoxNTExODI4MzUyLCJob3N0IjoiZ2l0aHViLmNvbSJ9",
+         "html-safe-nonce": "16a0e9bf95e2b2cb9d8a8aee4271e03973008c29",
+         "go-import": "github.com/kamosica/VRtest2 git https://github.com/kamosica/VRtest2.git",
+         "octolytics-dimension-user_id": "17016305",
+         "octolytics-dimension-user_login": "kamosica",
+         "octolytics-dimension-repository_id": "108080993",
+         "octolytics-dimension-repository_nwo": "kamosica/VRtest2",
+         "octolytics-dimension-repository_public": "true",
+         "octolytics-dimension-repository_is_fork": "false",
+         "octolytics-dimension-repository_network_root_id": "108080993",
+         "octolytics-dimension-repository_network_root_nwo": "kamosica/VRtest2",
+         "octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown": "false",
+         "browser-stats-url": "https://api.github.com/_private/browser/stats",
+         "browser-errors-url": "https://api.github.com/_private/browser/errors",
+         "theme-color": "#1e2327"
+        }
+       ],
+       "listitem": [
+        {
+         "url": "Code",
+         "name": "Code",
+         "position": "1"
+        },
+        {
+         "url": "Issues 0",
+         "name": "Issues",
+         "position": "2"
+        },
+        {
+         "url": "Pull requests 0",
+         "name": "Pull requests",
+         "position": "3"
+        }
+       ],
+       "softwaresourcecode": [
+        {
+         "author": "kamosica",
+         "name": "VRtest2",
+         "about": "てすと",
+         "datemodified": "on Oct 23"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://avatars2.githubusercontent.com/u/17016305?s=400&v=4"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "iOSにおけるUIテスト · GitHub",
+      "htmlTitle": "iOSにおけるUI\u003cb\u003eテスト\u003c/b\u003e · GitHub",
+      "link": "https://gist.github.com/kitasuke/5cb4a29c129f9e571ce6",
+      "displayLink": "gist.github.com",
+      "snippet": "GitHub is where people build software. More than 28 million people use GitHub \nto discover, fork, and contribute to over 80 million projects.",
+      "htmlSnippet": "GitHub is where people build software. More than 28 million people use GitHub \u003cbr\u003e\nto discover, fork, and contribute to over 80 million projects.",
+      "cacheId": "6UGdB9Bux8kJ",
+      "formattedUrl": "https://gist.github.com/kitasuke/5cb4a29c129f9e571ce6",
+      "htmlFormattedUrl": "https://gist.github.com/kitasuke/5cb4a29c129f9e571ce6",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "225",
+         "height": "225",
+         "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlBj5T1xkQ93p0eM-l9nQ7kjSMzOIRWFl5AbF2JhQ1yzn05Z_8MOV1XtcX"
+        }
+       ],
+       "code": [
+        {
+         "author": "kitasuke",
+         "name": "UITest.md",
+         "about": "iOSにおけるUIテスト",
+         "text": "iOSにおけるUIテスト 目次 Integration Test テスト自動化 Integration Test 【やりたいこと】 画面遷移が正常に行えるかの確認 表示内容が適切かの確認..."
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "width=device-width",
+         "fb:app_id": "1401488693436528",
+         "og:image": "https://avatars3.githubusercontent.com/u/1732312?s=400&v=4",
+         "og:site_name": "Gist",
+         "og:type": "object",
+         "og:title": "iOSにおけるUIテスト",
+         "og:url": "https://gist.github.com/kitasuke/5cb4a29c129f9e571ce6",
+         "og:description": "iOSにおけるUIテスト",
+         "pjax-timeout": "1000",
+         "request-id": "E21B:99BE:C867A:11CE87:5AA1A256",
+         "google-analytics": "UA-3769691-4",
+         "octolytics-host": "collector.githubapp.com",
+         "octolytics-app-id": "gist",
+         "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+         "octolytics-dimension-request_id": "E21B:99BE:C867A:11CE87:5AA1A256",
+         "octolytics-dimension-region_edge": "sea",
+         "octolytics-dimension-region_render": "iad",
+         "hydro-events-url": "https://gist.github.com/hydro_browser_events",
+         "analytics-location": "/\u003cuser-name\u003e/\u003cgist-id\u003e",
+         "dimension1": "Logged Out",
+         "octolytics-dimension-public": "true",
+         "octolytics-dimension-gist_id": "14654741",
+         "octolytics-dimension-gist_name": "5cb4a29c129f9e571ce6",
+         "octolytics-dimension-anonymous": "false",
+         "octolytics-dimension-owner_id": "1732312",
+         "octolytics-dimension-owner_login": "kitasuke",
+         "octolytics-dimension-forked": "false",
+         "dimension5": "public",
+         "dimension6": "owned",
+         "dimension7": "markdown unknown",
+         "hostname": "gist.github.com",
+         "expected-hostname": "gist.github.com",
+         "js-proxy-site-detection-payload": "MjgwZjEyZTMxYTM2MTMwNWE3ZTU2NDY0NWM5NTlhMmMzNGU2NzU1YzU5ZWJkMTZlYzczMzNlNWFkZjAzYmJiOXx7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5Ljg0IiwicmVxdWVzdF9pZCI6IkUyMUI6OTlCRTpDODY3QToxMUNFODc6NUFBMUEyNTYiLCJ0aW1lc3RhbXAiOjE1MjA1NDIyOTUsImhvc3QiOiJnaXRodWIuY29tIn0=",
+         "enabled-features": "UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,JS_ROLLUP",
+         "html-safe-nonce": "91f64dc507624198c29e7d47b3d56e463014f2f0",
+         "browser-stats-url": "https://api.github.com/_private/browser/stats",
+         "browser-errors-url": "https://api.github.com/_private/browser/errors",
+         "theme-color": "#1e2327"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://avatars3.githubusercontent.com/u/1732312?s=400&v=4"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "qhs/MainSpec.hs at master · itchyny/qhs · GitHub",
+      "htmlTitle": "qhs/MainSpec.hs at master · itchyny/qhs · GitHub",
+      "link": "https://github.com/itchyny/qhs/blob/master/test/MainSpec.hs",
+      "displayLink": "github.com",
+      "snippet": "SQL queries on CSV and TSV files. Contribute to qhs development by creating \nan account on GitHub.",
+      "htmlSnippet": "SQL queries on CSV and TSV files. Contribute to qhs development by creating \u003cbr\u003e\nan account on GitHub.",
+      "cacheId": "lRELMdEvwVYJ",
+      "formattedUrl": "https://github.com/itchyny/qhs/blob/master/test/MainSpec.hs",
+      "htmlFormattedUrl": "https://github.com/itchyny/qhs/blob/master/test/MainSpec.hs",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "225",
+         "height": "225",
+         "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShVCyRLmOGVA6UQzV0wEk5truKALEBfNf5inNIfvOVlPpEL3-TseddYfoc"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "width=device-width",
+         "fb:app_id": "1401488693436528",
+         "og:image": "https://avatars3.githubusercontent.com/u/375258?s=400&v=4",
+         "og:site_name": "GitHub",
+         "og:type": "object",
+         "og:title": "itchyny/qhs",
+         "og:url": "https://github.com/itchyny/qhs",
+         "og:description": "SQL queries on CSV and TSV files. Contribute to qhs development by creating an account on GitHub.",
+         "pjax-timeout": "1000",
+         "request-id": "EB91:1112C:783C49:AD0BF2:5A7679A2",
+         "google-analytics": "UA-3769691-2",
+         "octolytics-host": "collector.githubapp.com",
+         "octolytics-app-id": "github",
+         "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+         "octolytics-dimension-request_id": "EB91:1112C:783C49:AD0BF2:5A7679A2",
+         "octolytics-dimension-region_edge": "sea",
+         "octolytics-dimension-region_render": "iad",
+         "hydro-events-url": "https://github.com/hydro_browser_events",
+         "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e/blob/show",
+         "dimension1": "Logged Out",
+         "hostname": "github.com",
+         "expected-hostname": "github.com",
+         "js-proxy-site-detection-payload": "OTQ5Yzg0NjZiYTFmMjE1MDMxN2RlM2Y1NTk3YmUzMTk5MTQ1YWJjYmQxODQzNGIzYWM4YTQyYTgzYjM5ZGEzZHx7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5LjE0OCIsInJlcXVlc3RfaWQiOiJFQjkxOjExMTJDOjc4M0M0OTpBRDBCRjI6NUE3Njc5QTIiLCJ0aW1lc3RhbXAiOjE1MTc3MTM4MjYsImhvc3QiOiJnaXRodWIuY29tIn0=",
+         "enabled-features": "UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_HERO_CARD_UPLOADER",
+         "html-safe-nonce": "e3f8b54efa8467718dcfc3313b2bb0479c31fdd7",
+         "go-import": "github.com/itchyny/qhs git https://github.com/itchyny/qhs.git",
+         "octolytics-dimension-user_id": "375258",
+         "octolytics-dimension-user_login": "itchyny",
+         "octolytics-dimension-repository_id": "65116383",
+         "octolytics-dimension-repository_nwo": "itchyny/qhs",
+         "octolytics-dimension-repository_public": "true",
+         "octolytics-dimension-repository_is_fork": "false",
+         "octolytics-dimension-repository_network_root_id": "65116383",
+         "octolytics-dimension-repository_network_root_nwo": "itchyny/qhs",
+         "octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown": "false",
+         "browser-stats-url": "https://api.github.com/_private/browser/stats",
+         "browser-errors-url": "https://api.github.com/_private/browser/errors",
+         "theme-color": "#1e2327"
+        }
+       ],
+       "listitem": [
+        {
+         "url": "Code",
+         "name": "Code",
+         "position": "1"
+        },
+        {
+         "url": "Issues 0",
+         "name": "Issues",
+         "position": "2"
+        },
+        {
+         "url": "Pull requests 0",
+         "name": "Pull requests",
+         "position": "3"
+        }
+       ],
+       "softwaresourcecode": [
+        {
+         "author": "itchyny",
+         "name": "qhs",
+         "text": "module MainSpec (spec) where import Control.Applicativeimport Control.Monadimport System.IOimport System.Processimport Test.Hspec (Spec, describe, it, shouldReturn) spec :: Specspec = qhsSpec..."
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://avatars3.githubusercontent.com/u/375258?s=400&v=4"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "転送サーバおけるテストの自動化 · GitHub",
+      "htmlTitle": "転送サーバおける\u003cb\u003eテスト\u003c/b\u003eの自動化 · GitHub",
+      "link": "https://gist.github.com/voluntas/20f4442544f3ce7f80f1",
+      "displayLink": "gist.github.com",
+      "snippet": "自己紹介. 時雨堂という小さい小さい零細企業を経営しています。 Erlang/OTP で\nネットワークサーバを書いたりしています。 TURN のような TCP から UDP へ中身を\nいじらずに転送するサーバや、 MQTT と WebRTC SFU といった受け取ったデータ単一\nのデータを複数の箇所に転送するサーバを主に開発しています。 概要. 今回お話しする\nのは、皆さんがあまりなじみの無い転送サーバのテスト手法です。 転送というのは形を\n変えずに他の場所へ移動することです。つまり今回お話しするサーバではパケットの\n書き換えなどは ...",
+      "htmlSnippet": "自己紹介. 時雨堂という小さい小さい零細企業を経営しています。 Erlang/OTP で\u003cbr\u003e\nネットワークサーバを書いたりしています。 TURN のような TCP から UDP へ中身を\u003cbr\u003e\nいじらずに転送するサーバや、 MQTT と WebRTC SFU といった受け取ったデータ単一\u003cbr\u003e\nのデータを複数の箇所に転送するサーバを主に開発しています。 概要. 今回お話しする\u003cbr\u003e\nのは、皆さんがあまりなじみの無い転送サーバの\u003cb\u003eテスト\u003c/b\u003e手法です。 転送というのは形を\u003cbr\u003e\n変えずに他の場所へ移動することです。つまり今回お話しするサーバではパケットの\u003cbr\u003e\n書き換えなどは&nbsp;...",
+      "cacheId": "4rsdzPJt0KcJ",
+      "formattedUrl": "https://gist.github.com/voluntas/20f4442544f3ce7f80f1",
+      "htmlFormattedUrl": "https://gist.github.com/voluntas/20f4442544f3ce7f80f1",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "225",
+         "height": "225",
+         "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsTBDg4r6nMitiyIXMhWRKqrB4o1_ptrjjQtqBQ-W08xj4_Kzajraostw"
+        }
+       ],
+       "code": [
+        {
+         "author": "voluntas",
+         "name": "forwarding_server_auto_test.rst",
+         "about": "転送サーバおけるテストの自動化",
+         "text": "転送サーバおけるテストの自動化 作:@voluntasバージョン:0.1.0url:https://voluntas.github.io/ 自己紹介 時雨堂という小さい小さい零細企業を経営しています..."
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "width=device-width",
+         "fb:app_id": "1401488693436528",
+         "og:image": "https://avatars1.githubusercontent.com/u/15551?s=400&v=4",
+         "og:site_name": "Gist",
+         "og:type": "object",
+         "og:title": "転送サーバおけるテストの自動化",
+         "og:url": "https://gist.github.com/voluntas/20f4442544f3ce7f80f1",
+         "og:description": "転送サーバおけるテストの自動化",
+         "pjax-timeout": "1000",
+         "request-id": "B011:1D83:61E0FC:9368B3:5A990528",
+         "google-analytics": "UA-3769691-4",
+         "octolytics-host": "collector.githubapp.com",
+         "octolytics-app-id": "gist",
+         "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+         "octolytics-dimension-request_id": "B011:1D83:61E0FC:9368B3:5A990528",
+         "octolytics-dimension-region_edge": "sea",
+         "octolytics-dimension-region_render": "iad",
+         "hydro-events-url": "https://gist.github.com/hydro_browser_events",
+         "analytics-location": "/\u003cuser-name\u003e/\u003cgist-id\u003e",
+         "dimension1": "Logged Out",
+         "octolytics-dimension-public": "true",
+         "octolytics-dimension-gist_id": "32173677",
+         "octolytics-dimension-gist_name": "20f4442544f3ce7f80f1",
+         "octolytics-dimension-anonymous": "false",
+         "octolytics-dimension-owner_id": "15551",
+         "octolytics-dimension-owner_login": "voluntas",
+         "octolytics-dimension-forked": "false",
+         "dimension5": "public",
+         "dimension6": "owned",
+         "dimension7": "restructuredtext",
+         "hostname": "gist.github.com",
+         "expected-hostname": "gist.github.com",
+         "js-proxy-site-detection-payload": "ZGI2YjEyNTIxMmNmZjVjNjlkMGFmNjA3MTMwYTlhYmM1M2EyYWQ1YTllNmU0ZmI5NzIzOTQ1NDQyZjE3YmViNXx7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5LjY3IiwicmVxdWVzdF9pZCI6IkIwMTE6MUQ4Mzo2MUUwRkM6OTM2OEIzOjVBOTkwNTI4IiwidGltZXN0YW1wIjoxNTE5OTc3NzcxLCJob3N0IjoiZ2l0aHViLmNvbSJ9",
+         "enabled-features": "UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES",
+         "html-safe-nonce": "6c816b719718da58e071e1ceb75954f09291a5e3",
+         "browser-stats-url": "https://api.github.com/_private/browser/stats",
+         "browser-errors-url": "https://api.github.com/_private/browser/errors",
+         "theme-color": "#1e2327"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://avatars1.githubusercontent.com/u/15551?s=400&v=4"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "実践テスト駆動開発第三回 · GitHub",
+      "htmlTitle": "実践\u003cb\u003eテスト\u003c/b\u003e駆動開発第三回 · GitHub",
+      "link": "https://gist.github.com/sile/5227432",
+      "displayLink": "gist.github.com",
+      "snippet": "第四部 持続可能なテスト駆動開発. 開発が「快適である」状態を維持するために、テスト\nコードに求める質について述べる。 テストの表現力を高める必要がある; テストコード\n自体がメンテナンスの足かせにならないようにする; テストがしづらいということは、大抵\nプロダクションコードの設計が間違っているということを示すヒント; TDDはテスト／仕様\n／設計をひとつの全体的な活動としてまとめあげるもの ...",
+      "htmlSnippet": "第四部 持続可能な\u003cb\u003eテスト\u003c/b\u003e駆動開発. 開発が「快適である」状態を維持するために、\u003cb\u003eテスト\u003c/b\u003e\u003cbr\u003e\nコードに求める質について述べる。 \u003cb\u003eテスト\u003c/b\u003eの表現力を高める必要がある; \u003cb\u003eテスト\u003c/b\u003eコード\u003cbr\u003e\n自体がメンテナンスの足かせにならないようにする; \u003cb\u003eテスト\u003c/b\u003eがしづらいということは、大抵\u003cbr\u003e\nプロダクションコードの設計が間違っているということを示すヒント; TDDは\u003cb\u003eテスト\u003c/b\u003e／仕様\u003cbr\u003e\n／設計をひとつの全体的な活動としてまとめあげるもの&nbsp;...",
+      "cacheId": "2rY9Hq_NwFEJ",
+      "formattedUrl": "https://gist.github.com/sile/5227432",
+      "htmlFormattedUrl": "https://gist.github.com/sile/5227432",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "225",
+         "height": "225",
+         "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqbL77_ZNV8oooh_ofk-JtEikbFe-_SpKBmQpiaVwkqaP1OIaWhp_VI8Q"
+        }
+       ],
+       "code": [
+        {
+         "author": "sile",
+         "name": "第20章.md",
+         "about": "実践テスト駆動開発第三回",
+         "text": "第四部 持続可能なテスト駆動開発 開発が「快適である」状態を維持するために、テストコードに求める質について述べる。 テストの表現力を高..."
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "width=device-width",
+         "fb:app_id": "1401488693436528",
+         "og:image": "https://avatars0.githubusercontent.com/u/181413?s=400&v=4",
+         "og:site_name": "Gist",
+         "og:type": "object",
+         "og:title": "実践テスト駆動開発第三回",
+         "og:url": "https://gist.github.com/sile/5227432",
+         "og:description": "実践テスト駆動開発第三回",
+         "pjax-timeout": "1000",
+         "request-id": "8FBD:869D:1574DAE:1EB1AD9:5A97F2DA",
+         "google-analytics": "UA-3769691-4",
+         "octolytics-host": "collector.githubapp.com",
+         "octolytics-app-id": "gist",
+         "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+         "octolytics-dimension-request_id": "8FBD:869D:1574DAE:1EB1AD9:5A97F2DA",
+         "octolytics-dimension-region_edge": "sea",
+         "octolytics-dimension-region_render": "iad",
+         "hydro-events-url": "https://gist.github.com/hydro_browser_events",
+         "analytics-location": "/\u003cuser-name\u003e/\u003cgist-id\u003e",
+         "dimension1": "Logged Out",
+         "octolytics-dimension-public": "true",
+         "octolytics-dimension-gist_id": "5227432",
+         "octolytics-dimension-gist_name": "5227432",
+         "octolytics-dimension-anonymous": "false",
+         "octolytics-dimension-owner_id": "181413",
+         "octolytics-dimension-owner_login": "sile",
+         "octolytics-dimension-forked": "false",
+         "dimension5": "public",
+         "dimension6": "owned",
+         "dimension7": "markdown",
+         "hostname": "gist.github.com",
+         "expected-hostname": "gist.github.com",
+         "js-proxy-site-detection-payload": "YWU3M2RhZGZjNzMzMmQwMmFkMTgyMWY1MDAzOWVjYmM4MzcyYmQxM2U4YjQ5YzE0NTdlMTViOTVkY2U5YWNkN3x7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5Ljg0IiwicmVxdWVzdF9pZCI6IjhGQkQ6ODY5RDoxNTc0REFFOjFFQjFBRDk6NUE5N0YyREEiLCJ0aW1lc3RhbXAiOjE1MTk5MDc1NDcsImhvc3QiOiJnaXRodWIuY29tIn0=",
+         "enabled-features": "UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES",
+         "html-safe-nonce": "b0ffef99f2017dab09dfce16fb14868a4a568ade",
+         "browser-stats-url": "https://api.github.com/_private/browser/stats",
+         "browser-errors-url": "https://api.github.com/_private/browser/errors",
+         "theme-color": "#1e2327"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://avatars0.githubusercontent.com/u/181413?s=400&v=4"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "avajs/ava-docs",
+      "htmlTitle": "avajs/ava-docs",
+      "link": "https://github.com/avajs/ava-docs/blob/master/ja_JP/readme.md",
+      "displayLink": "github.com",
+      "snippet": "AVAは、この事が利点であり、テストを同時に実行することができ、特にIOが重いテスト\nで効果があります。また、テストファイルは独立したプロセスで並列して実行することで、\nより良いパフォーマンスと各テストファイル毎に分離された環境にすることができます。\nPageresにおけるMochaからAVAへの切り替えによって、テストにかかる時間を31秒\nから11秒まで減らしました。並列実行するテストにすると、大域の状態や他のテストの\n状態から影響を受けないことを意味するようになる粒度が極小のテストを書くようになり\nます。",
+      "htmlSnippet": "AVAは、この事が利点であり、\u003cb\u003eテスト\u003c/b\u003eを同時に実行することができ、特にIOが重い\u003cb\u003eテスト\u003c/b\u003e\u003cbr\u003e\nで効果があります。また、\u003cb\u003eテスト\u003c/b\u003eファイルは独立したプロセスで並列して実行することで、\u003cbr\u003e\nより良いパフォーマンスと各\u003cb\u003eテスト\u003c/b\u003eファイル毎に分離された環境にすることができます。\u003cbr\u003e\nPageresにおけるMochaからAVAへの切り替えによって、\u003cb\u003eテスト\u003c/b\u003eにかかる時間を31秒\u003cbr\u003e\nから11秒まで減らしました。並列実行する\u003cb\u003eテスト\u003c/b\u003eにすると、大域の状態や他の\u003cb\u003eテスト\u003c/b\u003eの\u003cbr\u003e\n状態から影響を受けないことを意味するようになる粒度が極小の\u003cb\u003eテスト\u003c/b\u003eを書くようになり\u003cbr\u003e\nます。",
+      "cacheId": "rJRi_Dz0vm4J",
+      "formattedUrl": "https://github.com/avajs/ava-docs/blob/master/ja.../readme.md",
+      "htmlFormattedUrl": "https://github.com/avajs/ava-docs/blob/master/ja.../readme.md",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "225",
+         "height": "225",
+         "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSst5k7PpbaaLGeN5cdVUn4wBoaO2HjnHNNsvHW6ksO3-ekQ_MBehF02ePq"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "width=device-width",
+         "fb:app_id": "1401488693436528",
+         "og:image": "https://avatars0.githubusercontent.com/u/8527916?s=400&v=4",
+         "og:site_name": "GitHub",
+         "og:type": "object",
+         "og:title": "avajs/ava-docs",
+         "og:url": "https://github.com/avajs/ava-docs",
+         "og:description": "Localized docs for AVA. Contribute to ava-docs development by creating an account on GitHub.",
+         "pjax-timeout": "1000",
+         "request-id": "B483:35D9:130FA79:1C91ECC:5AA364E7",
+         "google-analytics": "UA-3769691-2",
+         "octolytics-host": "collector.githubapp.com",
+         "octolytics-app-id": "github",
+         "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+         "octolytics-dimension-request_id": "B483:35D9:130FA79:1C91ECC:5AA364E7",
+         "octolytics-dimension-region_edge": "sea",
+         "octolytics-dimension-region_render": "iad",
+         "hydro-events-url": "https://github.com/hydro_browser_events",
+         "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e/blob/show",
+         "dimension1": "Logged Out",
+         "hostname": "github.com",
+         "expected-hostname": "github.com",
+         "js-proxy-site-detection-payload": "MDYzNTMyNGJhNTU5Y2M2YzQxNDI1YTgyZGQ1NmQ3ZDhhMDcyMmM3ODBkNWNkMTc0ZjRlMmE0MjM3MWE4Yzg3Y3x7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5Ljc4IiwicmVxdWVzdF9pZCI6IkI0ODM6MzVEOToxMzBGQTc5OjFDOTFFQ0M6NUFBMzY0RTciLCJ0aW1lc3RhbXAiOjE1MjA2NTc2MzksImhvc3QiOiJnaXRodWIuY29tIn0=",
+         "enabled-features": "UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,JS_ROLLUP",
+         "html-safe-nonce": "84ea16afdcc4fee0dacd88b91328605f82c889a8",
+         "go-import": "github.com/avajs/ava-docs git https://github.com/avajs/ava-docs.git",
+         "octolytics-dimension-user_id": "8527916",
+         "octolytics-dimension-user_login": "avajs",
+         "octolytics-dimension-repository_id": "47849128",
+         "octolytics-dimension-repository_nwo": "avajs/ava-docs",
+         "octolytics-dimension-repository_public": "true",
+         "octolytics-dimension-repository_is_fork": "false",
+         "octolytics-dimension-repository_network_root_id": "47849128",
+         "octolytics-dimension-repository_network_root_nwo": "avajs/ava-docs",
+         "octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown": "false",
+         "browser-stats-url": "https://api.github.com/_private/browser/stats",
+         "browser-errors-url": "https://api.github.com/_private/browser/errors",
+         "theme-color": "#1e2327"
+        }
+       ],
+       "listitem": [
+        {
+         "url": "Code",
+         "name": "Code",
+         "position": "1"
+        },
+        {
+         "url": "Issues 2",
+         "name": "Issues",
+         "position": "2"
+        },
+        {
+         "url": "Pull requests 1",
+         "name": "Pull requests",
+         "position": "3"
+        }
+       ],
+       "softwaresourcecode": [
+        {
+         "author": "avajs",
+         "name": "ava-docs",
+         "text": "訳注 これはreadme.mdの日本語訳です。こちらがAVAのmasterブランチとの差分のリンクになります(このリンクをクリックして、readme.mdに変更点が見当た..."
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://avatars0.githubusercontent.com/u/8527916?s=400&v=4"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "JavaでRSA鍵ペアを生成してみた@鍵ペア検証コード付き ref: http://qiita ...",
+      "htmlTitle": "JavaでRSA鍵ペアを生成してみた@鍵ペア検証コード付き ref: http://qiita ...",
+      "link": "https://gist.github.com/14c835d906d468154303fd3d0c8c6678",
+      "displayLink": "gist.github.com",
+      "snippet": "4418EBA57209FED2C9B852673EF6D42F320066EC1B0175B2AF4B3E103F3B2719684CF39811D8BA6E2F8A455DD621079B7C0ACBB7ADCA368806BED51097822CCF05F72D8E9F001737EF3FE9993CCC62E4C1F87585CF95FF4639579150254DD2D4C995DD8A84848035DA7C3364EFAF922903CC96191E6E32763E13852CDA965BBE\n. テストてすとテストてすとテストてすとテストてすと. true ...",
+      "htmlSnippet": "4418EBA57209FED2C9B852673EF6D42F320066EC1B0175B2AF4B3E103F3B2719684CF39811D8BA6E2F8A455DD621079B7C0ACBB7ADCA368806BED51097822CCF05F72D8E9F001737EF3FE9993CCC62E4C1F87585CF95FF4639579150254DD2D4C995DD8A84848035DA7C3364EFAF922903CC96191E6E32763E13852CDA965BBE\u003cbr\u003e\n. \u003cb\u003eテストてすとテストてすとテストてすとテストてすと\u003c/b\u003e. true&nbsp;...",
+      "cacheId": "gDvK_daY_JEJ",
+      "formattedUrl": "https://gist.github.com/14c835d906d468154303fd3d0c8c6678",
+      "htmlFormattedUrl": "https://gist.github.com/14c835d906d468154303fd3d0c8c6678",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "225",
+         "height": "225",
+         "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKElqqRH0tMR3aE49Ef9g3CE0Y3S_CRALi9TxXMOQGQ9f3D6duf9IjcRI"
+        }
+       ],
+       "code": [
+        {
+         "author": "teruteru128",
+         "name": "Main.java",
+         "about": "JavaでRSA鍵ペアを生成してみた@鍵ペア検証コード付き ref: http://qiita.com/teruteru128/items/b02078b115f3fdd3e1ac",
+         "text": "素数生成完了p : 11986036157968132346520837773856659201839110728802035511508317831681007979436002145500826499755663463491872944597086946814559027949874736415090464605880137q : 9937658523438649..."
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "width=device-width",
+         "fb:app_id": "1401488693436528",
+         "og:image": "https://avatars1.githubusercontent.com/u/8587246?s=400&v=4",
+         "og:site_name": "Gist",
+         "og:type": "object",
+         "og:title": "JavaでRSA鍵ペアを生成してみた@鍵ペア検証コード付き ref: http://qiita.com/teruteru128/items/b02078b115f3fdd3e1ac",
+         "og:url": "https://gist.github.com/teruteru128/14c835d906d468154303fd3d0c8c6678",
+         "og:description": "JavaでRSA鍵ペアを生成してみた@鍵ペア検証コード付き ref: http://qiita.com/teruteru128/items/b02078b115f3fdd3e1ac",
+         "pjax-timeout": "1000",
+         "request-id": "C850:0D0D:6753B6:9C295C:5A9EF9DA",
+         "google-analytics": "UA-3769691-4",
+         "octolytics-host": "collector.githubapp.com",
+         "octolytics-app-id": "gist",
+         "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+         "octolytics-dimension-request_id": "C850:0D0D:6753B6:9C295C:5A9EF9DA",
+         "octolytics-dimension-region_edge": "sea",
+         "octolytics-dimension-region_render": "iad",
+         "hydro-events-url": "https://gist.github.com/hydro_browser_events",
+         "analytics-location": "/\u003cuser-name\u003e/\u003cgist-id\u003e",
+         "dimension1": "Logged Out",
+         "octolytics-dimension-public": "true",
+         "octolytics-dimension-gist_id": "37715318",
+         "octolytics-dimension-gist_name": "14c835d906d468154303fd3d0c8c6678",
+         "octolytics-dimension-anonymous": "false",
+         "octolytics-dimension-owner_id": "8587246",
+         "octolytics-dimension-owner_login": "teruteru128",
+         "octolytics-dimension-forked": "false",
+         "dimension5": "public",
+         "dimension6": "owned",
+         "dimension7": "java text",
+         "hostname": "gist.github.com",
+         "expected-hostname": "gist.github.com",
+         "js-proxy-site-detection-payload": "ZWM2Zjg1NWIxYmYzZTZmYmEwMjJjZmMyMDFiYTYwMWE0ODRlZTM3OWNmNmFmMTQ4YmNhYWZiNzgxZGUwN2YyZXx7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5LjkxIiwicmVxdWVzdF9pZCI6IkM4NTA6MEQwRDo2NzUzQjY6OUMyOTVDOjVBOUVGOURBIiwidGltZXN0YW1wIjoxNTIwMzY4MDkxLCJob3N0IjoiZ2l0aHViLmNvbSJ9",
+         "enabled-features": "UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,JS_ROLLUP",
+         "html-safe-nonce": "5ebc6c34dc9ea62bb30b25741c3e43c5188c6969",
+         "browser-stats-url": "https://api.github.com/_private/browser/stats",
+         "browser-errors-url": "https://api.github.com/_private/browser/errors",
+         "theme-color": "#1e2327"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://avatars1.githubusercontent.com/u/8587246?s=400&v=4"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "ファイルを削除してからテストを実行するように修正 by fujisiro · Pull ...",
+      "htmlTitle": "ファイルを削除してから\u003cb\u003eテスト\u003c/b\u003eを実行するように修正 by fujisiro · Pull ...",
+      "link": "https://github.com/progedu/intro-curriculum-3010/pull/19/files",
+      "displayLink": "github.com",
+      "snippet": "入門コースの3章10節の練習 (ISC License). Contribute to intro-curriculum-3010 \ndevelopment by creating an account on GitHub.",
+      "htmlSnippet": "入門コースの3章10節の練習 (ISC License). Contribute to intro-curriculum-3010 \u003cbr\u003e\ndevelopment by creating an account on GitHub.",
+      "cacheId": "1R2cOJdW6m4J",
+      "formattedUrl": "https://github.com/progedu/intro-curriculum-3010/pull/19/files",
+      "htmlFormattedUrl": "https://github.com/progedu/intro-curriculum-3010/pull/19/files",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "225",
+         "height": "225",
+         "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSteX9imVzmNWVYu7wBLEaa28rPE4oBd1Ezt_ZJ1imIJcBxZBcq18ZFEwu5"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "width=device-width",
+         "fb:app_id": "1401488693436528",
+         "og:image": "https://avatars2.githubusercontent.com/u/19159035?s=400&v=4",
+         "og:site_name": "GitHub",
+         "og:type": "object",
+         "og:title": "ファイルを削除してからテストを実行するように修正 by fujisiro · Pull Request #19 · progedu/intro-curriculum-3010",
+         "og:url": "https://github.com/progedu/intro-curriculum-3010/pull/19",
+         "og:description": "練習用プルリクエストなので、マージは不要です。",
+         "pjax-timeout": "1000",
+         "request-id": "F12D:20346:14CD846:1E9973C:5A4E07F7",
+         "google-analytics": "UA-3769691-2",
+         "octolytics-host": "collector.githubapp.com",
+         "octolytics-app-id": "github",
+         "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+         "octolytics-dimension-request_id": "F12D:20346:14CD846:1E9973C:5A4E07F7",
+         "octolytics-dimension-region_edge": "sea",
+         "octolytics-dimension-region_render": "iad",
+         "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e/pull_requests/show/files",
+         "dimension1": "Logged Out",
+         "hostname": "github.com",
+         "expected-hostname": "github.com",
+         "js-proxy-site-detection-payload": "MjQyMDc5MmNjZWE5OWFhOWRiZmE2MTEzNWI0YjViYjM2NWZiNGZkNGU1ZWVlYTM3MjRhMmFlODZiZjk2NGM0NHx7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5LjE1OSIsInJlcXVlc3RfaWQiOiJGMTJEOjIwMzQ2OjE0Q0Q4NDY6MUU5OTczQzo1QTRFMDdGNyIsInRpbWVzdGFtcCI6MTUxNTA2MzI5MSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==",
+         "html-safe-nonce": "514f09d11c0a4b49b5fb07cdd6adcb0636d9487f",
+         "diff-view": "unified",
+         "go-import": "github.com/progedu/intro-curriculum-3010 git https://github.com/progedu/intro-curriculum-3010.git",
+         "octolytics-dimension-user_id": "14989387",
+         "octolytics-dimension-user_login": "progedu",
+         "octolytics-dimension-repository_id": "49113709",
+         "octolytics-dimension-repository_nwo": "progedu/intro-curriculum-3010",
+         "octolytics-dimension-repository_public": "true",
+         "octolytics-dimension-repository_is_fork": "false",
+         "octolytics-dimension-repository_network_root_id": "49113709",
+         "octolytics-dimension-repository_network_root_nwo": "progedu/intro-curriculum-3010",
+         "octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown": "false",
+         "browser-stats-url": "https://api.github.com/_private/browser/stats",
+         "browser-errors-url": "https://api.github.com/_private/browser/errors",
+         "theme-color": "#1e2327"
+        }
+       ],
+       "listitem": [
+        {
+         "url": "Code",
+         "name": "Code",
+         "position": "1"
+        },
+        {
+         "url": "Issues 0",
+         "name": "Issues",
+         "position": "2"
+        },
+        {
+         "url": "Pull requests 208",
+         "name": "Pull requests",
+         "position": "3"
+        }
+       ],
+       "softwaresourcecode": [
+        {
+         "author": "progedu",
+         "name": "intro-curriculum-3010"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://avatars2.githubusercontent.com/u/19159035?s=400&v=4"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "テスト追加 by masak2 · Pull Request #21 · progedu/intro-curriculum ...",
+      "htmlTitle": "\u003cb\u003eテスト\u003c/b\u003e追加 by masak2 · Pull Request #21 · progedu/intro-curriculum ...",
+      "link": "https://github.com/progedu/intro-curriculum-4018/pull/21/files?diff=split",
+      "displayLink": "github.com",
+      "snippet": "入門コースの4章18節の練習 (ISC License). Contribute to intro-curriculum-4018 \ndevelopment by creating an account on GitHub.",
+      "htmlSnippet": "入門コースの4章18節の練習 (ISC License). Contribute to intro-curriculum-4018 \u003cbr\u003e\ndevelopment by creating an account on GitHub.",
+      "cacheId": "w1NkR2w-IBQJ",
+      "formattedUrl": "https://github.com/progedu/intro-curriculum-4018/pull/.../files?...",
+      "htmlFormattedUrl": "https://github.com/progedu/intro-curriculum-4018/pull/.../files?...",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "225",
+         "height": "225",
+         "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU3w4U7PZXY61g3bLinrNdlHD_5LXtyEMcUjWzza9UFcKInH25YKbPPjj0"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "width=device-width",
+         "fb:app_id": "1401488693436528",
+         "og:image": "https://avatars1.githubusercontent.com/u/666025?s=400&v=4",
+         "og:site_name": "GitHub",
+         "og:type": "object",
+         "og:title": "テスト追加 by masak2 · Pull Request #21 · progedu/intro-curriculum-4018",
+         "og:url": "https://github.com/progedu/intro-curriculum-4018/pull/21",
+         "og:description": "マージ不要です",
+         "pjax-timeout": "1000",
+         "request-id": "EBD8:892A:42B25F:6551DE:5A2F3C3A",
+         "google-analytics": "UA-3769691-2",
+         "octolytics-host": "collector.githubapp.com",
+         "octolytics-app-id": "github",
+         "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+         "octolytics-dimension-request_id": "EBD8:892A:42B25F:6551DE:5A2F3C3A",
+         "octolytics-dimension-region_edge": "sea",
+         "octolytics-dimension-region_render": "iad",
+         "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e/pull_requests/show/files",
+         "dimension1": "Logged Out",
+         "hostname": "github.com",
+         "expected-hostname": "github.com",
+         "js-proxy-site-detection-payload": "OWU3ODI4NmE5YTAxNTYwMTVlNTk1NDc5MTk2NTIyMWFhYWRjZTUxNTQ1NjdiMzJiYzYyMmVjNTRiZjNlYzUxZHx7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5LjkwIiwicmVxdWVzdF9pZCI6IkVCRDg6ODkyQTo0MkIyNUY6NjU1MURFOjVBMkYzQzNBIiwidGltZXN0YW1wIjoxNTEzMDQ1MDUxLCJob3N0IjoiZ2l0aHViLmNvbSJ9",
+         "html-safe-nonce": "85ccb97294f3189d5ef1eadf5a26d04ab5836a09",
+         "diff-view": "split",
+         "go-import": "github.com/progedu/intro-curriculum-4018 git https://github.com/progedu/intro-curriculum-4018.git",
+         "octolytics-dimension-user_id": "14989387",
+         "octolytics-dimension-user_login": "progedu",
+         "octolytics-dimension-repository_id": "53313327",
+         "octolytics-dimension-repository_nwo": "progedu/intro-curriculum-4018",
+         "octolytics-dimension-repository_public": "true",
+         "octolytics-dimension-repository_is_fork": "false",
+         "octolytics-dimension-repository_network_root_id": "53313327",
+         "octolytics-dimension-repository_network_root_nwo": "progedu/intro-curriculum-4018",
+         "octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown": "false",
+         "browser-stats-url": "https://api.github.com/_private/browser/stats",
+         "browser-errors-url": "https://api.github.com/_private/browser/errors",
+         "theme-color": "#1e2327"
+        }
+       ],
+       "listitem": [
+        {
+         "url": "Code",
+         "name": "Code",
+         "position": "1"
+        },
+        {
+         "url": "Issues 0",
+         "name": "Issues",
+         "position": "2"
+        },
+        {
+         "url": "Pull requests 48",
+         "name": "Pull requests",
+         "position": "3"
+        }
+       ],
+       "softwaresourcecode": [
+        {
+         "author": "progedu",
+         "name": "intro-curriculum-4018"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://avatars1.githubusercontent.com/u/666025?s=400&v=4"
+        }
+       ]
+      }
+     }
+    ]
+   }
+   
